@@ -1,0 +1,27 @@
+Aufa Dhiya Aydan		1706043260
+Muhamad Fadil	   		1706042812
+Muhammad Farhan	     		1706042876
+Saint Vitra Dhiyaulhaq 		1706986063
+Zafran Hibatullah Tsany 	1706986082 
+
+
+Program hasil data disimpan dan ditampilan pada dashboard platfrom IoT Thingsboard.io. 
+Untuk melihat data, berikut stepnya: 
+
+//link access untuk login
+1. Access link
+   https://cloud.thingsboard.io/login
+
+2. Login (as customer)
+   - username: projectancial@thingsboard.io
+   - password: customer
+
+3. Pilih pada menu, Dashboard Groups
+
+4. Kemudian, pilih AirQuality Monitoring
+
+5. Terakhir, pilih symbol icon "open dashboard"
+
+
+//dokumentasi
+link github: https://github.com/MuhamadFadil/Monira-Monitoring-Udara-
